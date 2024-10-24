@@ -1,0 +1,6 @@
+numpy
+torch>=1.12.0
+argparse
+streamlit
+sentencepiece
+kagglehub==0.2.5
